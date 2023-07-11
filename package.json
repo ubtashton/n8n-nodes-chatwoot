@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-chatwoot",
+  "name": "@ubtashton/n8n-nodes-chatwoot",
   "version": "0.1.40",
   "description": "This is an n8n community node. It lets you use ChatWoot in your n8n workflows.",
   "keywords": [
@@ -8,14 +8,14 @@
     "sufficit"
   ],
   "license": "MIT",
-  "homepage": "https://www.sufficit.com.br",
+  "homepage": "",
   "author": {
-    "name": "Sufficit Soluções em Tecnologia da Informação",
-    "email": "contato@sufficit.com.br"
+    "name": "",
+    "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sufficit/n8n-nodes-chatwoot.git"
+    "url": "git+https://github.com/ubtashton/n8n-nodes-chatwoot.git"
   },
   "main": "index.js",
   "scripts": {
@@ -52,7 +52,7 @@
     "typescript": "~4.6.0"
   },
   "bugs": {
-    "url": "https://github.com/sufficit/n8n-nodes-chatwoot/issues"
+    "url": "https://github.com/ubtashton/n8n-nodes-chatwoot/issues"
   },
   "workspaces": [
     "packages/*"
